@@ -1,0 +1,12 @@
+.pokemon-flavor{
+    position: absolute;
+    width: 30%;
+    top: 36%;
+    left: 60%;
+    font-size: 0.7rem;
+    color: white;
+    overflow-wrap: break-word;  
+    word-wrap: break-word; 
+    word-break: break-word;
+    text-align: left;
+}
