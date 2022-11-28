@@ -1,3 +1,3 @@
 #Pokedex
 
-Projeto para treino desenvolvido com React eutilizando a API PokeApi (https://pokeapi.co/)
+Projeto para treino desenvolvido com React utilizando a API PokeApi (https://pokeapi.co/)
